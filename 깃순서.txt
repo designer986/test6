@@ -1,0 +1,11 @@
+1.브랜치확인-체크아웃
+2.코드작업
+3.스테이지에 추가 -> git add 
+4.스테이지파일 commit
+5.2~4번 반복 
+6.동기화(push)
+7.origin/main <- 내 브랜치(origin/test) pr
+8.서버(github)읜 변화 정보 확인 fetch(리모트정보조회)
+9.origin/main의 최신 커밋으로 기준조정(commit)으로 다시 지정 -> revase(병합, 풀)
+10.로컬의 git 정보가 갱신되어저 리모트 브랜치에 동기화해야함.(push)
+11.1~10반복
